@@ -81,7 +81,7 @@ array (
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-org/habeshacoin-api.git
+   git clone https://github.com/habeshacoin/habeshacoin-api.git
    cd habeshacoin-api
    ```
 
